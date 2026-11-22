@@ -1,0 +1,55 @@
+staff_id,name,store_id,role,hourly_wage,hire_date
+E001,Umar Park,S01,manager,$27.50,2019-04-04
+E002,Ivy Chen,S01,shift lead,20.50/hr,2019-06-08
+E003,Will Scott,S01,shift lead,$22.00,2019-07-06
+E004,Jack Park,S01,barista,19.00/hr,2020-09-07
+E005,Chen Khan,S01,barista,$17.00,2021-05-08
+E006,Zoe Lopez,S01,barista,19.00,2020-08-13
+E007,Yusuf Lee,S01,barista,19.00,2020-09-03
+E008,Grace Kim,S01,barista,19.00/hr,2021-08-14
+E009,Zoe Park,S01,barista,19.50/hr,2021-06-07
+E010,Hana Rossi,S01,barista,18.00,2020-12-26
+E011,Kate Moore,S02,manager,$26.00,2023-12-30
+E012,Jack Rossi,S02,shift lead,22.00/hr,2023-01-26
+E013,Kate Wu,S02,shift lead,21.00/hr,2024-01-14
+E014,Liam Brown,S02,barista,18.00,2023-02-14
+E015,Bella Ford,S02,barista,18.50,2021-08-26
+E016,Gabe Young,S02,barista,17.50,2023-08-05
+E017,Bella Smith,S02,barista,19.00,2023-12-25
+E018,Quinn Park,S02,barista,18.50,2022-05-24
+E019,Bella Khan,S02,barista,17.50/hr,2022-05-21
+E020,Farah Ali,S02,barista,18.00,2021-11-28
+E021,Farah Scott,S02,barista,17.00,2022-08-19
+E022,Chen Garcia,S02,barista,18.50,2023-12-29
+E023,Olivia Wang,S03,manager,$27.50,2023-06-12
+E024,Olivia Rossi,S03,shift lead,23.00,2024-07-01
+E025,Diego Khan,S03,shift lead,$22.50,2022-05-11
+E026,Rosa Rossi,S03,barista,18.00,2023-03-05
+E027,Farah Khan,S03,barista,$18.50,2023-01-10
+E028,Bella Lily,S03,barista,19.50/hr,2023-10-02
+E029,Ivy Diaz,S03,barista,17.50/hr,2024-06-19
+E030,Henry Park,S03,barista,$19.50,2024-08-08
+E031,Ivy Moore,S04,manager,27.00,2025-05-20
+E032,Tina Khan,S04,shift lead,$21.50,2025-05-26
+E033,Noah Lily,S04,shift lead,22.00/hr,2025-05-24
+E034,Arjun Brown,S04,barista,$17.00,2025-05-15
+E035,Xin Scott,S04,barista,17.00/hr,2025-05-22
+E036,Peter Lopez,S04,barista,19.50,2025-05-21
+E037,Grace Patel,S04,barista,19.00/hr,2025-05-20
+E038,Hana Smith,S04,barista,18.00/hr,2025-05-17
+E039,Carla Jones,S05,manager,26.50,2022-08-13
+E040,Vera Patel,S05,shift lead,21.00/hr,2020-10-04
+E041,Jade Murphy,S05,shift lead,22.00,2020-10-30
+E042,Carla Patel,S05,barista,18.50,2022-01-10
+E043,Hana Lee,S05,barista,$19.50,2020-10-18
+E044,Frank Khan,S05,barista,$19.00,2021-09-17
+E045,Peter Wang,S05,barista,19.50/hr,2022-12-14
+E046,Noah Garcia,S05,barista,19.50/hr,2020-10-31
+E047,Xin Jones,S05,barista,18.00,2021-07-07
+E048,Kate Lily,S06,manager,27.00/hr,2024-10-27
+E049,Carla Silva,S06,shift lead,20.50,2025-01-30
+E050,Olivia Moore,S06,shift lead,22.50,2024-02-22
+E051,Kate Garcia,S06,barista,$18.50,2023-05-25
+E052,Noah Lily,S06,barista,$18.50,2023-04-16
+E053,Jade Wu,S06,barista,17.50/hr,2024-02-08
+E054,Will Lee,S06,barista,19.00/hr,2024-04-26

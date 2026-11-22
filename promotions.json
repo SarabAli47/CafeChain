@@ -1,0 +1,88 @@
+[
+  {
+    "code": "WELCOME2",
+    "discount": {
+      "type": "fixed",
+      "value": 2.0
+    },
+    "valid": {
+      "start": "2025-01-01",
+      "end": "2025-12-31"
+    },
+    "min_spend": 6.0,
+    "stores": "ALL"
+  },
+  {
+    "code": "SPRING10",
+    "discount": {
+      "type": "percent",
+      "value": 10
+    },
+    "valid": {
+      "start": "2025-03-15",
+      "end": "2025-04-15"
+    },
+    "min_spend": 0.0,
+    "stores": [
+      "S01",
+      "S02",
+      "S05"
+    ]
+  },
+  {
+    "code": "SUMMER15",
+    "discount": {
+      "type": "percent",
+      "value": 15
+    },
+    "valid": {
+      "start": "2025-06-15",
+      "end": "2025-07-31"
+    },
+    "min_spend": 8.0,
+    "stores": "ALL"
+  },
+  {
+    "code": "CAMPUS20",
+    "discount": {
+      "type": "percent",
+      "value": 20
+    },
+    "valid": {
+      "start": "2025-09-01",
+      "end": "2025-09-21"
+    },
+    "min_spend": 0.0,
+    "stores": [
+      "S02"
+    ]
+  },
+  {
+    "code": "FLYER5",
+    "discount": {
+      "type": "fixed",
+      "value": 5.0
+    },
+    "valid": {
+      "start": "2025-10-01",
+      "end": "2025-11-30"
+    },
+    "min_spend": 15.0,
+    "stores": [
+      "S06"
+    ]
+  },
+  {
+    "code": "HOLIDAY3",
+    "discount": {
+      "type": "fixed",
+      "value": 3.0
+    },
+    "valid": {
+      "start": "2025-12-01",
+      "end": "2025-12-24"
+    },
+    "min_spend": 10.0,
+    "stores": "ALL"
+  }
+]

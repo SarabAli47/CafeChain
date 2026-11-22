@@ -1,0 +1,7 @@
+store_id,store_name,city,store_type,seats,opened,closed_from,closed_to
+S01,Albany Downtown,Albany,downtown,40,2019-03-01,,
+S02,Albany Campus,Albany,campus,60,2021-08-15,,
+S03,Troy Riverside,Troy,riverside,35,2022-05-01,,
+S04,Schenectady Plaza,Schenectady,mall,30,2025-06-02,,
+S05,Saratoga Broadway,Saratoga Springs,downtown,45,2020-10-01,2025-02-10,2025-02-23
+S06,Albany Airport,Albany,airport,20,2023-02-01,,

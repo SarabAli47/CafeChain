@@ -1,0 +1,1461 @@
+date,city,temp_c,precip_mm,condition
+2025-01-01,Albany,-7.3,0.0,sunny
+2025-01-02,Albany,-1.3,0.0,sunny
+2025-01-03,Albany,-10.7,0.0,cloudy
+2025-01-04,Albany,-6.7,0.0,cloudy
+2025-01-05,Albany,-10.1,2.2,snow
+2025-01-06,Albany,-4.9,0.0,cloudy
+2025-01-07,Albany,0.2,6.7,rain
+2025-01-08,Albany,-8.5,0.0,sunny
+2025-01-09,Albany,-3.2,0.0,sunny
+2025-01-10,Albany,-3.3,0.0,sunny
+2025-01-11,Albany,-3.8,0.0,cloudy
+2025-01-12,Albany,-6.6,0.0,cloudy
+2025-01-13,Albany,-6.4,0.0,cloudy
+2025-01-14,Albany,-5.5,0.0,sunny
+2025-01-15,Albany,-5.3,0.0,cloudy
+2025-01-16,Albany,-5.5,1.4,sunny
+2025-01-17,Albany,-3.5,0.0,cloudy
+2025-01-18,Albany,-6.4,0.0,cloudy
+2025-01-19,Albany,-4.2,5.8,snow
+2025-01-20,Albany,-5.0,3.9,snow
+2025-01-21,Albany,-9.6,0.0,sunny
+2025-01-22,Albany,-8.9,3.3,snow
+2025-01-23,Albany,-4.2,0.0,cloudy
+2025-01-24,Albany,-4.4,9.5,snow
+2025-01-25,Albany,-2.5,3.3,snow
+2025-01-26,Albany,-13.1,0.0,cloudy
+2025-01-27,Albany,-3.9,0.0,cloudy
+2025-01-28,Albany,-13.6,0.0,sunny
+2025-01-29,Albany,-6.0,0.0,sunny
+2025-01-30,Albany,-13.7,0.0,sunny
+2025-01-31,Albany,-1.4,18.8,snow
+2025-02-01,Albany,-8.4,0.0,sunny
+2025-02-02,Albany,1.3,0.0,sunny
+2025-02-03,Albany,-4.9,0.0,sunny
+2025-02-04,Albany,-2.8,0.0,sunny
+2025-02-05,Albany,-3.6,8.9,snow
+2025-02-06,Albany,0.4,0.0,sunny
+2025-02-07,Albany,-5.4,20.8,snow
+2025-02-08,Albany,-8.9,0.0,sunny
+2025-02-09,Albany,-8.9,0.0,cloudy
+2025-02-10,Albany,-8.0,0.0,sunny
+2025-02-11,Albany,-4.8,0.0,cloudy
+2025-02-12,Albany,-3.7,0.0,sunny
+2025-02-13,Albany,-5.6,0.8,cloudy
+2025-02-14,Albany,-4.1,0.0,sunny
+2025-02-15,Albany,0.4,4.6,rain
+2025-02-16,Albany,-10.1,0.0,cloudy
+2025-02-17,Albany,-6.1,0.0,sunny
+2025-02-18,Albany,-0.9,0.0,cloudy
+2025-02-19,Albany,-7.5,0.0,sunny
+2025-02-20,Albany,-0.6,0.0,cloudy
+2025-02-21,Albany,-5.1,11.0,snow
+2025-02-22,Albany,-5.5,0.0,sunny
+2025-02-23,Albany,-4.1,0.0,cloudy
+2025-02-24,Albany,-2.8,0.0,cloudy
+2025-02-25,Albany,-4.3,0.0,sunny
+2025-02-26,Albany,1.8,0.0,sunny
+2025-02-27,Albany,-4.1,0.0,cloudy
+2025-02-28,Albany,1.1,0.0,sunny
+2025-03-01,Albany,0.9,0.0,sunny
+2025-03-02,Albany,-3.1,0.0,cloudy
+2025-03-03,Albany,2.2,0.0,cloudy
+2025-03-04,Albany,3.8,0.8,sunny
+2025-03-05,Albany,0.2,0.0,sunny
+2025-03-06,Albany,1.1,0.0,sunny
+2025-03-07,Albany,-7.1,0.0,sunny
+2025-03-08,Albany,0.6,0.0,cloudy
+2025-03-09,Albany,2.5,0.0,cloudy
+2025-03-10,Albany,5.0,0.0,sunny
+2025-03-11,Albany,-2.1,2.4,snow
+2025-03-12,Albany,0.2,12.2,rain
+2025-03-13,Albany,3.6,0.0,sunny
+2025-03-14,Albany,-2.3,0.0,sunny
+2025-03-15,Albany,2.2,8.8,rain
+2025-03-16,Albany,-9.0,3.0,snow
+2025-03-17,Albany,2.5,5.8,rain
+2025-03-18,Albany,-4.5,2.3,snow
+2025-03-19,Albany,-4.4,0.0,cloudy
+2025-03-20,Albany,0.1,0.0,sunny
+2025-03-21,Albany,-0.3,0.0,sunny
+2025-03-22,Albany,1.5,0.0,sunny
+2025-03-23,Albany,-6.3,14.0,snow
+2025-03-24,Albany,-1.5,0.0,cloudy
+2025-03-25,Albany,8.1,0.0,sunny
+2025-03-26,Albany,2.4,0.0,cloudy
+2025-03-27,Albany,-0.7,0.0,cloudy
+2025-03-28,Albany,5.2,0.0,cloudy
+2025-03-29,Albany,2.4,9.3,rain
+2025-03-30,Albany,5.9,0.0,sunny
+2025-03-31,Albany,2.5,0.0,sunny
+2025-04-01,Albany,10.0,0.0,cloudy
+2025-04-02,Albany,4.7,0.0,cloudy
+2025-04-03,Albany,5.5,0.0,sunny
+2025-04-04,Albany,-1.2,0.0,sunny
+2025-04-05,Albany,,0.0,cloudy
+2025-04-06,Albany,8.5,0.0,sunny
+2025-04-07,Albany,2.6,0.0,cloudy
+2025-04-08,Albany,8.7,0.0,sunny
+2025-04-09,Albany,0.3,0.0,cloudy
+2025-04-10,Albany,5.7,0.0,sunny
+2025-04-11,Albany,9.1,1.6,sunny
+2025-04-12,Albany,6.9,1.5,cloudy
+2025-04-13,Albany,5.6,0.0,cloudy
+2025-04-14,Albany,10.0,0.0,sunny
+2025-04-15,Albany,13.1,0.0,sunny
+2025-04-16,Albany,9.2,0.0,cloudy
+2025-04-17,Albany,12.9,0.0,sunny
+2025-04-18,Albany,11.3,0.0,sunny
+2025-04-19,Albany,6.6,19.5,rain
+2025-04-20,Albany,9.5,11.7,rain
+2025-04-21,Albany,13.7,0.0,sunny
+2025-04-22,Albany,5.4,0.0,sunny
+2025-04-23,Albany,5.7,0.0,cloudy
+2025-04-24,Albany,7.9,0.0,cloudy
+2025-04-25,Albany,2.5,0.0,cloudy
+2025-04-26,Albany,9.7,0.0,cloudy
+2025-04-27,Albany,13.0,5.7,rain
+2025-04-28,Albany,11.0,0.0,cloudy
+2025-04-29,Albany,5.8,0.0,sunny
+2025-04-30,Albany,4.0,7.6,rain
+2025-05-01,Albany,12.2,7.9,rain
+2025-05-02,Albany,14.0,0.0,cloudy
+2025-05-03,Albany,15.8,2.1,rain
+2025-05-04,Albany,,0.0,cloudy
+2025-05-05,Albany,6.9,0.0,cloudy
+2025-05-06,Albany,13.4,2.4,rain
+2025-05-07,Albany,10.1,0.0,cloudy
+2025-05-08,Albany,7.6,13.1,rain
+2025-05-09,Albany,17.2,0.0,sunny
+2025-05-10,Albany,8.1,0.0,sunny
+2025-05-11,Albany,16.9,0.0,sunny
+2025-05-12,Albany,10.7,12.9,rain
+2025-05-13,Albany,15.7,0.0,cloudy
+2025-05-14,Albany,16.7,0.0,cloudy
+2025-05-15,Albany,17.1,3.6,rain
+2025-05-16,Albany,13.5,5.2,rain
+2025-05-17,Albany,17.7,0.0,cloudy
+2025-05-18,Albany,10.0,0.0,cloudy
+2025-05-19,Albany,9.2,0.0,cloudy
+2025-05-20,Albany,12.8,3.5,rain
+2025-05-21,Albany,18.2,8.5,rain
+2025-05-22,Albany,17.8,0.0,sunny
+2025-05-23,Albany,17.6,10.9,rain
+2025-05-24,Albany,18.1,0.0,cloudy
+2025-05-25,Albany,13.9,0.5,cloudy
+2025-05-26,Albany,19.4,0.0,sunny
+2025-05-27,Albany,14.3,0.0,sunny
+2025-05-28,Albany,13.4,0.0,cloudy
+2025-05-29,Albany,18.8,4.7,rain
+2025-05-30,Albany,15.5,0.0,sunny
+2025-05-31,Albany,13.7,2.6,rain
+2025-06-01,Albany,17.9,0.0,cloudy
+2025-06-02,Albany,20.6,0.0,cloudy
+2025-06-03,Albany,18.0,0.0,cloudy
+2025-06-04,Albany,16.0,0.0,cloudy
+2025-06-05,Albany,19.2,0.0,sunny
+2025-06-06,Albany,23.7,0.0,sunny
+2025-06-07,Albany,16.9,0.0,cloudy
+2025-06-08,Albany,21.1,19.4,rain
+2025-06-09,Albany,17.5,0.0,sunny
+2025-06-10,Albany,19.2,0.0,sunny
+2025-06-11,Albany,22.5,0.0,sunny
+2025-06-12,Albany,19.4,0.0,cloudy
+2025-06-13,Albany,21.9,0.0,cloudy
+2025-06-14,Albany,20.7,6.7,rain
+2025-06-15,Albany,21.2,0.0,cloudy
+2025-06-16,Albany,23.1,2.2,rain
+2025-06-17,Albany,26.3,8.0,rain
+2025-06-18,Albany,17.1,0.0,sunny
+2025-06-19,Albany,18.8,0.0,cloudy
+2025-06-20,Albany,22.9,0.0,cloudy
+2025-06-21,Albany,31.8,5.2,rain
+2025-06-22,Albany,24.1,0.0,sunny
+2025-06-23,Albany,28.0,11.6,rain
+2025-06-24,Albany,17.8,0.0,cloudy
+2025-06-25,Albany,21.7,10.5,rain
+2025-06-26,Albany,28.5,0.0,cloudy
+2025-06-27,Albany,27.9,0.0,sunny
+2025-06-28,Albany,23.0,9.8,rain
+2025-06-29,Albany,23.7,13.8,rain
+2025-06-30,Albany,24.0,7.2,rain
+2025-07-01,Albany,26.4,8.1,rain
+2025-07-02,Albany,25.5,1.5,sunny
+2025-07-03,Albany,24.2,0.0,cloudy
+2025-07-04,Albany,26.7,0.0,sunny
+2025-07-05,Albany,33.7,6.8,rain
+2025-07-06,Albany,20.5,0.0,cloudy
+2025-07-07,Albany,21.9,6.6,rain
+2025-07-08,Albany,22.0,3.8,rain
+2025-07-09,Albany,23.6,0.0,sunny
+2025-07-10,Albany,22.2,7.7,rain
+2025-07-11,Albany,16.6,1.1,cloudy
+2025-07-12,Albany,25.5,12.2,rain
+2025-07-13,Albany,21.8,0.0,cloudy
+2025-07-14,Albany,18.2,0.0,cloudy
+2025-07-15,Albany,19.8,1.0,cloudy
+2025-07-16,Albany,20.1,4.3,rain
+2025-07-17,Albany,19.6,0.0,sunny
+2025-07-18,Albany,22.5,0.0,sunny
+2025-07-19,Albany,27.8,4.4,rain
+2025-07-20,Albany,25.2,6.4,rain
+2025-07-21,Albany,22.7,0.0,cloudy
+2025-07-22,Albany,28.8,0.0,cloudy
+2025-07-23,Albany,22.1,7.0,rain
+2025-07-24,Albany,22.5,0.0,sunny
+2025-07-25,Albany,21.3,0.0,sunny
+2025-07-26,Albany,23.2,4.2,rain
+2025-07-27,Albany,25.7,0.0,cloudy
+2025-07-28,Albany,19.0,0.0,cloudy
+2025-07-29,Albany,21.5,0.9,cloudy
+2025-07-30,Albany,30.9,8.3,rain
+2025-07-31,Albany,20.5,0.0,sunny
+2025-08-01,Albany,24.8,0.0,cloudy
+2025-08-02,Albany,23.1,0.0,sunny
+2025-08-03,Albany,23.6,0.0,cloudy
+2025-08-04,Albany,22.9,0.0,cloudy
+2025-08-05,Albany,21.3,0.0,sunny
+2025-08-06,Albany,24.1,0.0,sunny
+2025-08-07,Albany,23.9,3.2,rain
+2025-08-08,Albany,26.3,0.0,cloudy
+2025-08-09,Albany,31.0,0.0,cloudy
+2025-08-10,Albany,22.2,0.0,cloudy
+2025-08-11,Albany,28.2,0.0,cloudy
+2025-08-12,Albany,28.3,0.0,sunny
+2025-08-13,Albany,23.7,0.0,sunny
+2025-08-14,Albany,19.1,2.4,rain
+2025-08-15,Albany,23.2,2.1,rain
+2025-08-16,Albany,17.8,4.1,rain
+2025-08-17,Albany,21.9,4.8,rain
+2025-08-18,Albany,19.7,0.0,cloudy
+2025-08-19,Albany,24.7,0.0,sunny
+2025-08-20,Albany,22.6,0.0,sunny
+2025-08-21,Albany,15.6,2.8,rain
+2025-08-22,Albany,23.3,5.8,rain
+2025-08-23,Albany,24.7,2.7,rain
+2025-08-24,Albany,14.9,0.0,cloudy
+2025-08-25,Albany,24.1,0.0,cloudy
+2025-08-26,Albany,14.2,0.0,sunny
+2025-08-27,Albany,19.1,1.4,sunny
+2025-08-28,Albany,20.7,3.2,rain
+2025-08-29,Albany,21.4,0.0,cloudy
+2025-08-30,Albany,20.2,0.0,cloudy
+2025-08-31,Albany,24.7,0.0,sunny
+2025-09-01,Albany,23.0,0.0,sunny
+2025-09-02,Albany,20.5,0.0,cloudy
+2025-09-03,Albany,21.8,0.0,cloudy
+2025-09-04,Albany,16.3,0.0,cloudy
+2025-09-05,Albany,19.5,0.0,sunny
+2025-09-06,Albany,18.4,17.6,rain
+2025-09-07,Albany,23.8,17.4,rain
+2025-09-08,Albany,18.3,0.0,sunny
+2025-09-09,Albany,21.1,0.0,sunny
+2025-09-10,Albany,17.4,0.0,sunny
+2025-09-11,Albany,14.2,0.0,sunny
+2025-09-12,Albany,19.9,0.0,cloudy
+2025-09-13,Albany,19.8,0.0,cloudy
+2025-09-14,Albany,17.0,0.0,sunny
+2025-09-15,Albany,9.5,13.1,rain
+2025-09-16,Albany,14.3,0.0,cloudy
+2025-09-17,Albany,21.4,4.7,rain
+2025-09-18,Albany,19.5,0.0,cloudy
+2025-09-19,Albany,19.2,0.0,sunny
+2025-09-20,Albany,18.5,0.0,cloudy
+2025-09-21,Albany,16.7,3.4,rain
+2025-09-22,Albany,16.7,5.8,rain
+2025-09-23,Albany,20.0,0.0,cloudy
+2025-09-24,Albany,12.6,0.0,cloudy
+2025-09-25,Albany,19.6,0.0,sunny
+2025-09-26,Albany,17.0,0.0,sunny
+2025-09-27,Albany,11.5,0.0,sunny
+2025-09-28,Albany,15.4,0.9,cloudy
+2025-09-29,Albany,16.1,0.0,cloudy
+2025-09-30,Albany,14.0,0.0,cloudy
+2025-10-01,Albany,11.9,3.0,rain
+2025-10-02,Albany,9.5,0.0,cloudy
+2025-10-03,Albany,10.1,0.0,sunny
+2025-10-04,Albany,12.0,0.0,cloudy
+2025-10-05,Albany,10.2,0.0,sunny
+2025-10-06,Albany,16.3,0.0,cloudy
+2025-10-07,Albany,13.1,0.0,cloudy
+2025-10-08,Albany,7.0,0.0,cloudy
+2025-10-09,Albany,13.6,0.0,sunny
+2025-10-10,Albany,12.9,0.0,cloudy
+2025-10-11,Albany,11.9,0.0,cloudy
+2025-10-12,Albany,12.6,4.8,rain
+2025-10-13,Albany,13.5,0.0,sunny
+2025-10-14,Albany,13.1,0.0,sunny
+2025-10-15,Albany,13.5,0.0,cloudy
+2025-10-16,Albany,12.9,0.9,sunny
+2025-10-17,Albany,12.3,0.0,sunny
+2025-10-18,Albany,11.3,0.0,cloudy
+2025-10-19,Albany,8.3,0.0,sunny
+2025-10-20,Albany,10.3,0.0,cloudy
+2025-10-21,Albany,10.0,0.0,sunny
+2025-10-22,Albany,3.9,0.0,cloudy
+2025-10-23,Albany,5.2,2.6,rain
+2025-10-24,Albany,3.4,0.0,cloudy
+2025-10-25,Albany,5.5,0.0,cloudy
+2025-10-26,Albany,10.1,0.0,cloudy
+2025-10-27,Albany,8.3,4.9,rain
+2025-10-28,Albany,4.5,0.0,cloudy
+2025-10-29,Albany,6.7,0.0,sunny
+2025-10-30,Albany,6.5,2.1,rain
+2025-10-31,Albany,5.0,5.8,rain
+2025-11-01,Albany,3.5,0.0,cloudy
+2025-11-02,Albany,5.2,0.0,cloudy
+2025-11-03,Albany,7.3,0.0,sunny
+2025-11-04,Albany,5.5,20.9,rain
+2025-11-05,Albany,6.9,0.0,cloudy
+2025-11-06,Albany,10.0,0.0,cloudy
+2025-11-07,Albany,7.3,2.7,rain
+2025-11-08,Albany,7.5,11.5,rain
+2025-11-09,Albany,2.1,0.0,sunny
+2025-11-10,Albany,9.1,0.0,cloudy
+2025-11-11,Albany,3.7,0.0,sunny
+2025-11-12,Albany,4.4,0.0,cloudy
+2025-11-13,Albany,-4.4,0.0,cloudy
+2025-11-14,Albany,0.7,5.7,rain
+2025-11-15,Albany,3.2,1.5,cloudy
+2025-11-16,Albany,-0.4,0.0,sunny
+2025-11-17,Albany,0.9,0.0,sunny
+2025-11-18,Albany,0.2,1.3,sunny
+2025-11-19,Albany,6.6,0.0,sunny
+2025-11-20,Albany,0.0,0.0,cloudy
+2025-11-21,Albany,-1.8,0.0,sunny
+2025-11-22,Albany,2.3,0.0,sunny
+2025-11-23,Albany,-2.0,0.0,sunny
+2025-11-24,Albany,4.1,0.0,sunny
+2025-11-25,Albany,-2.8,0.0,cloudy
+2025-11-26,Albany,1.0,8.6,rain
+2025-11-27,Albany,-2.6,0.0,cloudy
+2025-11-28,Albany,0.3,0.0,sunny
+2025-11-29,Albany,2.5,7.9,rain
+2025-11-30,Albany,-2.1,2.4,snow
+2025-12-01,Albany,3.9,0.0,sunny
+2025-12-02,Albany,3.9,0.0,cloudy
+2025-12-03,Albany,-1.4,0.0,cloudy
+2025-12-04,Albany,-0.4,3.4,snow
+2025-12-05,Albany,-4.0,0.0,sunny
+2025-12-06,Albany,,4.8,rain
+2025-12-07,Albany,4.2,5.6,rain
+2025-12-08,Albany,0.2,10.0,rain
+2025-12-09,Albany,2.5,1.1,cloudy
+2025-12-10,Albany,-1.4,13.2,snow
+2025-12-11,Albany,-3.5,0.0,cloudy
+2025-12-12,Albany,0.9,4.5,rain
+2025-12-13,Albany,-8.5,0.0,sunny
+2025-12-14,Albany,-5.2,3.4,snow
+2025-12-15,Albany,-3.4,0.0,sunny
+2025-12-16,Albany,-9.7,0.0,sunny
+2025-12-17,Albany,-1.2,4.0,snow
+2025-12-18,Albany,-1.3,0.0,cloudy
+2025-12-19,Albany,-4.6,0.0,sunny
+2025-12-20,Albany,-4.3,0.0,sunny
+2025-12-21,Albany,-6.4,0.0,cloudy
+2025-12-22,Albany,-4.1,10.6,snow
+2025-12-23,Albany,-5.8,3.3,snow
+2025-12-24,Albany,-2.1,0.0,sunny
+2025-12-25,Albany,-5.2,7.6,snow
+2025-12-26,Albany,-1.8,0.0,sunny
+2025-12-27,Albany,-13.2,0.0,cloudy
+2025-12-28,Albany,-8.8,14.7,snow
+2025-12-29,Albany,-5.5,9.4,snow
+2025-12-30,Albany,4.7,0.0,cloudy
+2025-12-31,Albany,-9.4,0.0,sunny
+2025-01-01,Troy,-3.9,0.0,sunny
+2025-01-02,Troy,-10.8,0.0,sunny
+2025-01-03,Troy,-1.5,2.0,sunny
+2025-01-04,Troy,-8.0,8.7,snow
+2025-01-05,Troy,-9.7,0.0,sunny
+2025-01-06,Troy,-11.1,0.0,sunny
+2025-01-07,Troy,-7.2,0.0,cloudy
+2025-01-08,Troy,-4.2,2.7,snow
+2025-01-09,Troy,-2.6,9.0,snow
+2025-01-10,Troy,-9.8,0.0,sunny
+2025-01-11,Troy,-5.7,7.3,snow
+2025-01-12,Troy,-4.0,0.0,cloudy
+2025-01-13,Troy,-3.8,0.0,sunny
+2025-01-14,Troy,-5.1,0.0,cloudy
+2025-01-15,Troy,-6.2,0.0,sunny
+2025-01-16,Troy,-6.6,0.0,sunny
+2025-01-17,Troy,-9.8,0.0,sunny
+2025-01-18,Troy,-6.1,0.0,cloudy
+2025-01-19,Troy,-4.6,0.0,sunny
+2025-01-20,Troy,-10.7,4.3,snow
+2025-01-21,Troy,-1.7,0.0,sunny
+2025-01-22,Troy,-6.0,0.0,sunny
+2025-01-23,Troy,-3.5,5.6,snow
+2025-01-24,Troy,-6.9,0.0,cloudy
+2025-01-25,Troy,-2.5,0.0,sunny
+2025-01-26,Troy,-9.0,4.6,snow
+2025-01-27,Troy,-5.4,0.0,sunny
+2025-01-28,Troy,-15.4,1.8,cloudy
+2025-01-29,Troy,-2.1,0.0,cloudy
+2025-01-30,Troy,-3.2,0.0,sunny
+2025-01-31,Troy,-3.3,2.8,snow
+2025-02-01,Troy,-8.3,0.0,cloudy
+2025-02-02,Troy,-5.2,0.0,sunny
+2025-02-03,Troy,-5.3,9.0,snow
+2025-02-04,Troy,-6.1,0.0,cloudy
+2025-02-05,Troy,-10.8,0.0,cloudy
+2025-02-06,Troy,-2.1,0.0,sunny
+2025-02-07,Troy,-10.1,0.0,sunny
+2025-02-08,Troy,-15.3,0.0,cloudy
+2025-02-09,Troy,-6.8,1.9,cloudy
+2025-02-10,Troy,-3.5,0.0,cloudy
+2025-02-11,Troy,-6.8,6.1,snow
+2025-02-12,Troy,0.3,0.0,sunny
+2025-02-13,Troy,-1.7,4.0,snow
+2025-02-14,Troy,-4.4,0.0,sunny
+2025-02-15,Troy,1.3,7.4,rain
+2025-02-16,Troy,-3.6,0.0,cloudy
+2025-02-17,Troy,-3.9,0.0,sunny
+2025-02-18,Troy,-5.6,0.0,cloudy
+2025-02-19,Troy,-8.5,0.0,cloudy
+2025-02-20,Troy,0.2,0.0,sunny
+2025-02-21,Troy,-8.7,0.0,sunny
+2025-02-22,Troy,-2.2,5.1,snow
+2025-02-23,Troy,-8.7,0.0,cloudy
+2025-02-24,Troy,-1.4,6.4,snow
+2025-02-25,Troy,-4.9,0.0,sunny
+2025-02-26,Troy,-6.1,0.0,cloudy
+2025-02-27,Troy,-4.0,0.0,sunny
+2025-02-28,Troy,-2.4,0.0,sunny
+2025-03-01,Troy,-2.4,0.0,sunny
+2025-03-02,Troy,-0.6,17.3,snow
+2025-03-03,Troy,-2.1,0.0,sunny
+2025-03-04,Troy,1.7,0.0,sunny
+2025-03-05,Troy,-0.2,0.0,cloudy
+2025-03-06,Troy,-1.9,0.0,sunny
+2025-03-07,Troy,-2.4,5.6,snow
+2025-03-08,Troy,-6.6,1.0,sunny
+2025-03-09,Troy,4.8,0.0,sunny
+2025-03-10,Troy,2.7,0.0,sunny
+2025-03-11,Troy,-4.3,3.3,snow
+2025-03-12,Troy,5.6,7.7,rain
+2025-03-13,Troy,-2.2,0.0,sunny
+2025-03-14,Troy,-3.7,4.2,snow
+2025-03-15,Troy,4.0,0.0,sunny
+2025-03-16,Troy,3.0,0.5,sunny
+2025-03-17,Troy,-1.1,0.0,sunny
+2025-03-18,Troy,2.8,1.6,cloudy
+2025-03-19,Troy,3.8,0.0,sunny
+2025-03-20,Troy,-2.1,0.0,sunny
+2025-03-21,Troy,-3.5,0.0,cloudy
+2025-03-22,Troy,0.8,8.2,rain
+2025-03-23,Troy,3.3,0.0,sunny
+2025-03-24,Troy,,0.0,sunny
+2025-03-25,Troy,6.2,0.0,cloudy
+2025-03-26,Troy,0.8,0.0,sunny
+2025-03-27,Troy,5.5,0.0,sunny
+2025-03-28,Troy,2.2,0.0,sunny
+2025-03-29,Troy,0.0,0.0,sunny
+2025-03-30,Troy,7.0,1.7,sunny
+2025-03-31,Troy,7.7,0.0,sunny
+2025-04-01,Troy,3.5,14.2,rain
+2025-04-02,Troy,1.0,0.0,sunny
+2025-04-03,Troy,11.2,0.0,sunny
+2025-04-04,Troy,4.5,1.7,cloudy
+2025-04-05,Troy,5.8,0.0,cloudy
+2025-04-06,Troy,6.8,0.0,cloudy
+2025-04-07,Troy,14.7,3.7,rain
+2025-04-08,Troy,3.2,0.0,sunny
+2025-04-09,Troy,4.4,0.0,sunny
+2025-04-10,Troy,6.7,0.0,cloudy
+2025-04-11,Troy,2.5,0.0,cloudy
+2025-04-12,Troy,1.7,0.0,cloudy
+2025-04-13,Troy,6.1,0.0,sunny
+2025-04-14,Troy,3.1,0.0,cloudy
+2025-04-15,Troy,1.2,0.0,sunny
+2025-04-16,Troy,10.0,1.1,cloudy
+2025-04-17,Troy,11.5,0.0,sunny
+2025-04-18,Troy,5.5,0.0,cloudy
+2025-04-19,Troy,7.6,0.0,cloudy
+2025-04-20,Troy,3.7,0.0,cloudy
+2025-04-21,Troy,9.2,0.0,sunny
+2025-04-22,Troy,4.4,0.0,cloudy
+2025-04-23,Troy,7.8,0.0,cloudy
+2025-04-24,Troy,8.9,5.1,rain
+2025-04-25,Troy,5.3,0.0,sunny
+2025-04-26,Troy,8.9,10.1,rain
+2025-04-27,Troy,14.7,0.0,cloudy
+2025-04-28,Troy,10.6,0.0,cloudy
+2025-04-29,Troy,6.0,5.8,rain
+2025-04-30,Troy,17.1,0.0,sunny
+2025-05-01,Troy,11.5,0.0,sunny
+2025-05-02,Troy,3.9,10.3,rain
+2025-05-03,Troy,5.8,0.0,sunny
+2025-05-04,Troy,15.2,0.0,cloudy
+2025-05-05,Troy,14.7,0.0,cloudy
+2025-05-06,Troy,12.1,0.0,sunny
+2025-05-07,Troy,16.1,6.8,rain
+2025-05-08,Troy,8.2,0.0,sunny
+2025-05-09,Troy,13.1,13.7,rain
+2025-05-10,Troy,12.2,0.0,sunny
+2025-05-11,Troy,14.8,0.0,sunny
+2025-05-12,Troy,10.5,0.0,cloudy
+2025-05-13,Troy,17.2,0.0,cloudy
+2025-05-14,Troy,11.7,0.5,sunny
+2025-05-15,Troy,8.8,0.0,sunny
+2025-05-16,Troy,15.9,0.0,sunny
+2025-05-17,Troy,20.6,0.0,cloudy
+2025-05-18,Troy,12.1,0.7,sunny
+2025-05-19,Troy,11.5,1.7,cloudy
+2025-05-20,Troy,15.2,0.0,sunny
+2025-05-21,Troy,13.0,0.0,cloudy
+2025-05-22,Troy,15.5,0.0,cloudy
+2025-05-23,Troy,18.3,0.0,sunny
+2025-05-24,Troy,11.1,4.7,rain
+2025-05-25,Troy,15.0,0.0,sunny
+2025-05-26,Troy,12.5,0.0,sunny
+2025-05-27,Troy,18.7,0.0,sunny
+2025-05-28,Troy,18.7,13.9,rain
+2025-05-29,Troy,22.8,0.0,sunny
+2025-05-30,Troy,16.1,10.5,rain
+2025-05-31,Troy,19.8,0.0,sunny
+2025-06-01,Troy,16.3,0.0,sunny
+2025-06-02,Troy,14.3,0.0,cloudy
+2025-06-03,Troy,17.5,6.5,rain
+2025-06-04,Troy,19.6,0.0,sunny
+2025-06-05,Troy,23.9,2.0,sunny
+2025-06-06,Troy,18.5,0.0,sunny
+2025-06-07,Troy,15.5,0.0,cloudy
+2025-06-08,Troy,21.6,0.0,sunny
+2025-06-09,Troy,16.7,0.0,cloudy
+2025-06-10,Troy,12.0,0.0,sunny
+2025-06-11,Troy,20.4,0.0,sunny
+2025-06-12,Troy,23.6,2.4,rain
+2025-06-13,Troy,22.7,10.7,rain
+2025-06-14,Troy,20.6,0.0,cloudy
+2025-06-15,Troy,17.2,0.0,cloudy
+2025-06-16,Troy,22.6,0.0,cloudy
+2025-06-17,Troy,23.0,0.0,sunny
+2025-06-18,Troy,16.1,0.0,cloudy
+2025-06-19,Troy,23.7,0.0,cloudy
+2025-06-20,Troy,20.3,0.0,cloudy
+2025-06-21,Troy,17.7,12.5,rain
+2025-06-22,Troy,23.5,1.5,sunny
+2025-06-23,Troy,21.7,0.0,cloudy
+2025-06-24,Troy,22.5,0.0,sunny
+2025-06-25,Troy,27.8,0.0,sunny
+2025-06-26,Troy,18.4,0.0,sunny
+2025-06-27,Troy,23.9,7.4,rain
+2025-06-28,Troy,22.0,0.0,cloudy
+2025-06-29,Troy,23.1,2.7,rain
+2025-06-30,Troy,19.1,0.0,sunny
+2025-07-01,Troy,16.0,0.0,sunny
+2025-07-02,Troy,14.9,0.0,cloudy
+2025-07-03,Troy,21.3,0.0,sunny
+2025-07-04,Troy,18.0,0.0,sunny
+2025-07-05,Troy,14.3,0.0,cloudy
+2025-07-06,Troy,21.4,11.7,rain
+2025-07-07,Troy,20.1,0.0,cloudy
+2025-07-08,Troy,21.9,0.0,cloudy
+2025-07-09,Troy,20.1,3.3,rain
+2025-07-10,Troy,20.9,9.8,rain
+2025-07-11,Troy,20.6,0.0,cloudy
+2025-07-12,Troy,21.5,0.0,sunny
+2025-07-13,Troy,17.2,0.0,sunny
+2025-07-14,Troy,22.3,0.0,sunny
+2025-07-15,Troy,20.0,0.0,sunny
+2025-07-16,Troy,18.8,0.0,sunny
+2025-07-17,Troy,20.6,2.2,rain
+2025-07-18,Troy,25.4,0.0,sunny
+2025-07-19,Troy,22.4,11.3,rain
+2025-07-20,Troy,23.5,14.2,rain
+2025-07-21,Troy,24.1,2.1,rain
+2025-07-22,Troy,27.2,0.0,sunny
+2025-07-23,Troy,24.4,17.7,rain
+2025-07-24,Troy,28.9,0.0,sunny
+2025-07-25,Troy,23.2,0.0,sunny
+2025-07-26,Troy,30.4,0.0,sunny
+2025-07-27,Troy,25.0,0.0,sunny
+2025-07-28,Troy,25.4,0.0,cloudy
+2025-07-29,Troy,26.5,5.5,rain
+2025-07-30,Troy,23.6,0.0,cloudy
+2025-07-31,Troy,25.2,3.1,rain
+2025-08-01,Troy,25.7,0.0,sunny
+2025-08-02,Troy,23.5,4.2,rain
+2025-08-03,Troy,26.4,0.0,sunny
+2025-08-04,Troy,23.3,11.7,rain
+2025-08-05,Troy,21.8,0.0,sunny
+2025-08-06,Troy,20.9,12.7,rain
+2025-08-07,Troy,25.2,6.1,rain
+2025-08-08,Troy,24.5,0.0,sunny
+2025-08-09,Troy,18.9,0.0,cloudy
+2025-08-10,Troy,19.9,0.0,sunny
+2025-08-11,Troy,19.4,15.4,rain
+2025-08-12,Troy,26.0,9.3,rain
+2025-08-13,Troy,26.5,0.0,cloudy
+2025-08-14,Troy,22.7,0.0,sunny
+2025-08-15,Troy,19.7,0.0,cloudy
+2025-08-16,Troy,23.0,4.3,rain
+2025-08-17,Troy,26.5,0.0,sunny
+2025-08-18,Troy,21.5,6.7,rain
+2025-08-19,Troy,23.2,0.0,sunny
+2025-08-20,Troy,18.7,0.0,sunny
+2025-08-21,Troy,17.3,0.0,cloudy
+2025-08-22,Troy,21.6,0.0,cloudy
+2025-08-23,Troy,21.1,0.0,sunny
+2025-08-24,Troy,21.6,6.7,rain
+2025-08-25,Troy,13.1,0.0,sunny
+2025-08-26,Troy,23.7,0.0,sunny
+2025-08-27,Troy,23.1,0.0,sunny
+2025-08-28,Troy,25.4,0.0,sunny
+2025-08-29,Troy,20.8,0.0,cloudy
+2025-08-30,Troy,23.1,0.0,sunny
+2025-08-31,Troy,10.8,3.3,rain
+2025-09-01,Troy,19.1,4.9,rain
+2025-09-02,Troy,19.3,0.0,sunny
+2025-09-03,Troy,13.7,0.0,sunny
+2025-09-04,Troy,19.1,0.0,sunny
+2025-09-05,Troy,19.1,8.8,rain
+2025-09-06,Troy,18.9,0.0,sunny
+2025-09-07,Troy,22.8,1.8,cloudy
+2025-09-08,Troy,16.0,0.0,sunny
+2025-09-09,Troy,14.9,2.3,rain
+2025-09-10,Troy,16.0,0.0,sunny
+2025-09-11,Troy,16.4,3.7,rain
+2025-09-12,Troy,17.4,0.0,cloudy
+2025-09-13,Troy,18.5,16.5,rain
+2025-09-14,Troy,15.2,0.0,sunny
+2025-09-15,Troy,21.1,0.0,cloudy
+2025-09-16,Troy,18.6,20.7,rain
+2025-09-17,Troy,20.5,0.0,sunny
+2025-09-18,Troy,22.2,0.0,cloudy
+2025-09-19,Troy,16.1,6.5,rain
+2025-09-20,Troy,17.0,1.8,cloudy
+2025-09-21,Troy,16.3,1.6,sunny
+2025-09-22,Troy,12.4,0.0,sunny
+2025-09-23,Troy,14.2,0.0,sunny
+2025-09-24,Troy,16.4,2.6,rain
+2025-09-25,Troy,17.7,0.0,cloudy
+2025-09-26,Troy,12.5,0.0,cloudy
+2025-09-27,Troy,16.8,9.7,rain
+2025-09-28,Troy,13.6,0.0,sunny
+2025-09-29,Troy,14.9,0.0,sunny
+2025-09-30,Troy,11.9,0.0,sunny
+2025-10-01,Troy,15.2,0.0,sunny
+2025-10-02,Troy,14.5,2.2,rain
+2025-10-03,Troy,18.0,0.0,cloudy
+2025-10-04,Troy,18.8,1.8,sunny
+2025-10-05,Troy,9.5,0.0,cloudy
+2025-10-06,Troy,9.8,3.2,rain
+2025-10-07,Troy,5.4,0.0,sunny
+2025-10-08,Troy,14.4,0.0,sunny
+2025-10-09,Troy,13.0,0.0,cloudy
+2025-10-10,Troy,15.3,0.0,sunny
+2025-10-11,Troy,3.2,0.0,cloudy
+2025-10-12,Troy,11.3,0.0,cloudy
+2025-10-13,Troy,9.5,8.8,rain
+2025-10-14,Troy,12.3,0.0,sunny
+2025-10-15,Troy,11.1,0.0,cloudy
+2025-10-16,Troy,13.6,5.1,rain
+2025-10-17,Troy,5.1,0.0,sunny
+2025-10-18,Troy,8.7,0.0,cloudy
+2025-10-19,Troy,8.5,0.0,sunny
+2025-10-20,Troy,11.7,0.0,cloudy
+2025-10-21,Troy,8.3,3.0,rain
+2025-10-22,Troy,12.5,0.0,cloudy
+2025-10-23,Troy,8.4,0.0,cloudy
+2025-10-24,Troy,8.5,0.0,sunny
+2025-10-25,Troy,,0.0,cloudy
+2025-10-26,Troy,6.0,0.0,cloudy
+2025-10-27,Troy,,0.0,cloudy
+2025-10-28,Troy,5.3,0.0,cloudy
+2025-10-29,Troy,5.7,9.7,rain
+2025-10-30,Troy,0.3,0.0,cloudy
+2025-10-31,Troy,6.5,0.0,sunny
+2025-11-01,Troy,4.7,0.0,cloudy
+2025-11-02,Troy,8.2,0.0,cloudy
+2025-11-03,Troy,10.5,0.0,sunny
+2025-11-04,Troy,5.6,0.0,cloudy
+2025-11-05,Troy,6.5,0.0,cloudy
+2025-11-06,Troy,3.7,9.8,rain
+2025-11-07,Troy,3.3,0.0,sunny
+2025-11-08,Troy,3.1,0.0,sunny
+2025-11-09,Troy,3.6,0.0,sunny
+2025-11-10,Troy,5.2,0.0,cloudy
+2025-11-11,Troy,8.8,0.0,sunny
+2025-11-12,Troy,6.6,0.0,sunny
+2025-11-13,Troy,3.1,0.0,sunny
+2025-11-14,Troy,3.2,0.0,cloudy
+2025-11-15,Troy,-4.5,1.0,sunny
+2025-11-16,Troy,7.3,0.0,sunny
+2025-11-17,Troy,8.6,0.0,sunny
+2025-11-18,Troy,2.2,0.0,sunny
+2025-11-19,Troy,1.9,0.0,cloudy
+2025-11-20,Troy,-5.0,0.0,cloudy
+2025-11-21,Troy,-0.3,6.1,snow
+2025-11-22,Troy,-2.0,0.0,cloudy
+2025-11-23,Troy,-2.2,0.0,sunny
+2025-11-24,Troy,-1.2,0.0,cloudy
+2025-11-25,Troy,-0.2,0.0,sunny
+2025-11-26,Troy,3.2,0.0,sunny
+2025-11-27,Troy,2.1,0.0,cloudy
+2025-11-28,Troy,-0.9,0.0,cloudy
+2025-11-29,Troy,-2.1,0.0,sunny
+2025-11-30,Troy,-2.3,0.0,cloudy
+2025-12-01,Troy,1.2,0.0,cloudy
+2025-12-02,Troy,-2.0,0.0,sunny
+2025-12-03,Troy,-7.0,0.0,cloudy
+2025-12-04,Troy,-9.1,0.0,cloudy
+2025-12-05,Troy,-0.4,0.0,sunny
+2025-12-06,Troy,-0.8,0.0,sunny
+2025-12-07,Troy,-4.8,0.0,sunny
+2025-12-08,Troy,-0.4,0.0,sunny
+2025-12-09,Troy,-0.9,6.7,snow
+2025-12-10,Troy,-1.5,11.9,snow
+2025-12-11,Troy,-2.0,0.0,sunny
+2025-12-12,Troy,,6.3,snow
+2025-12-13,Troy,-4.9,5.2,snow
+2025-12-14,Troy,2.1,0.0,sunny
+2025-12-15,Troy,-3.6,4.6,snow
+2025-12-16,Troy,1.6,5.4,rain
+2025-12-17,Troy,-1.6,0.0,cloudy
+2025-12-18,Troy,-4.0,0.0,sunny
+2025-12-19,Troy,2.8,0.0,cloudy
+2025-12-20,Troy,-5.8,0.0,sunny
+2025-12-21,Troy,-8.7,1.9,sunny
+2025-12-22,Troy,-2.9,2.9,snow
+2025-12-23,Troy,-5.8,0.0,cloudy
+2025-12-24,Troy,-5.7,0.0,sunny
+2025-12-25,Troy,-6.6,7.3,snow
+2025-12-26,Troy,-2.0,2.1,snow
+2025-12-27,Troy,-3.4,1.5,cloudy
+2025-12-28,Troy,-5.3,8.0,snow
+2025-12-29,Troy,-11.7,0.0,sunny
+2025-12-30,Troy,-1.8,0.0,sunny
+2025-12-31,Troy,-4.6,7.9,snow
+2025-01-01,Schenectady,-5.8,16.4,snow
+2025-01-02,Schenectady,-1.7,0.0,cloudy
+2025-01-03,Schenectady,-2.7,0.0,sunny
+2025-01-04,Schenectady,-4.6,0.0,cloudy
+2025-01-05,Schenectady,-4.0,0.0,cloudy
+2025-01-06,Schenectady,-9.5,1.8,sunny
+2025-01-07,Schenectady,-7.4,5.7,snow
+2025-01-08,Schenectady,-9.1,2.0,snow
+2025-01-09,Schenectady,-8.2,0.0,cloudy
+2025-01-10,Schenectady,-15.6,7.5,snow
+2025-01-11,Schenectady,-3.9,0.0,sunny
+2025-01-12,Schenectady,-7.7,0.0,cloudy
+2025-01-13,Schenectady,-5.7,8.2,snow
+2025-01-14,Schenectady,-7.0,0.0,cloudy
+2025-01-15,Schenectady,-10.3,0.0,cloudy
+2025-01-16,Schenectady,-4.0,0.0,cloudy
+2025-01-17,Schenectady,-10.2,0.0,cloudy
+2025-01-18,Schenectady,-1.7,0.0,cloudy
+2025-01-19,Schenectady,-9.9,3.0,snow
+2025-01-20,Schenectady,-10.4,0.0,sunny
+2025-01-21,Schenectady,-6.1,0.0,sunny
+2025-01-22,Schenectady,-7.4,23.9,snow
+2025-01-23,Schenectady,-2.0,0.0,cloudy
+2025-01-24,Schenectady,-6.4,0.0,sunny
+2025-01-25,Schenectady,-3.9,8.8,snow
+2025-01-26,Schenectady,-7.1,0.0,sunny
+2025-01-27,Schenectady,-7.2,2.7,snow
+2025-01-28,Schenectady,-5.0,0.0,cloudy
+2025-01-29,Schenectady,-4.3,0.0,sunny
+2025-01-30,Schenectady,-3.0,0.0,sunny
+2025-01-31,Schenectady,-3.6,0.0,sunny
+2025-02-01,Schenectady,-9.5,3.0,snow
+2025-02-02,Schenectady,-3.7,0.0,sunny
+2025-02-03,Schenectady,-4.5,0.0,sunny
+2025-02-04,Schenectady,-8.3,0.0,sunny
+2025-02-05,Schenectady,-4.7,0.0,cloudy
+2025-02-06,Schenectady,-5.0,0.0,cloudy
+2025-02-07,Schenectady,-2.6,2.7,snow
+2025-02-08,Schenectady,,0.0,cloudy
+2025-02-09,Schenectady,-10.9,2.3,snow
+2025-02-10,Schenectady,-11.1,2.1,snow
+2025-02-11,Schenectady,-7.9,6.0,snow
+2025-02-12,Schenectady,-8.5,1.8,cloudy
+2025-02-13,Schenectady,-5.7,8.7,snow
+2025-02-14,Schenectady,-6.4,13.6,snow
+2025-02-15,Schenectady,-6.1,2.8,snow
+2025-02-16,Schenectady,-1.8,0.0,cloudy
+2025-02-17,Schenectady,-3.4,0.0,cloudy
+2025-02-18,Schenectady,-9.2,0.0,sunny
+2025-02-19,Schenectady,0.5,0.0,sunny
+2025-02-20,Schenectady,0.9,2.9,rain
+2025-02-21,Schenectady,-9.4,0.0,cloudy
+2025-02-22,Schenectady,-2.7,2.5,snow
+2025-02-23,Schenectady,-1.1,0.0,sunny
+2025-02-24,Schenectady,-0.3,0.0,sunny
+2025-02-25,Schenectady,-9.6,0.0,cloudy
+2025-02-26,Schenectady,-4.2,0.0,cloudy
+2025-02-27,Schenectady,-4.7,0.0,cloudy
+2025-02-28,Schenectady,-3.7,0.0,sunny
+2025-03-01,Schenectady,-6.1,0.0,sunny
+2025-03-02,Schenectady,-10.2,0.0,cloudy
+2025-03-03,Schenectady,-5.4,0.0,cloudy
+2025-03-04,Schenectady,-7.3,0.0,sunny
+2025-03-05,Schenectady,-3.6,0.0,sunny
+2025-03-06,Schenectady,-3.0,0.0,sunny
+2025-03-07,Schenectady,-3.6,0.0,cloudy
+2025-03-08,Schenectady,-4.8,0.0,cloudy
+2025-03-09,Schenectady,-1.0,2.8,snow
+2025-03-10,Schenectady,-2.3,0.0,cloudy
+2025-03-11,Schenectady,-5.5,0.7,cloudy
+2025-03-12,Schenectady,1.6,0.0,cloudy
+2025-03-13,Schenectady,-1.4,0.0,sunny
+2025-03-14,Schenectady,2.4,0.0,cloudy
+2025-03-15,Schenectady,-2.7,0.0,sunny
+2025-03-16,Schenectady,4.9,0.0,cloudy
+2025-03-17,Schenectady,-1.8,0.0,sunny
+2025-03-18,Schenectady,-2.4,0.0,sunny
+2025-03-19,Schenectady,2.2,0.0,cloudy
+2025-03-20,Schenectady,-2.8,0.0,sunny
+2025-03-21,Schenectady,0.9,0.0,sunny
+2025-03-22,Schenectady,4.6,0.0,sunny
+2025-03-23,Schenectady,-2.8,0.0,sunny
+2025-03-24,Schenectady,9.4,5.5,rain
+2025-03-25,Schenectady,4.0,0.0,cloudy
+2025-03-26,Schenectady,-0.4,0.0,sunny
+2025-03-27,Schenectady,-2.6,1.6,sunny
+2025-03-28,Schenectady,,0.0,cloudy
+2025-03-29,Schenectady,0.7,0.0,cloudy
+2025-03-30,Schenectady,4.1,0.0,cloudy
+2025-03-31,Schenectady,2.9,2.7,rain
+2025-04-01,Schenectady,7.1,1.9,cloudy
+2025-04-02,Schenectady,8.0,0.0,cloudy
+2025-04-03,Schenectady,1.4,0.0,sunny
+2025-04-04,Schenectady,4.5,0.0,sunny
+2025-04-05,Schenectady,2.5,0.0,sunny
+2025-04-06,Schenectady,7.0,0.0,cloudy
+2025-04-07,Schenectady,5.1,9.9,rain
+2025-04-08,Schenectady,4.1,0.0,sunny
+2025-04-09,Schenectady,3.5,0.0,cloudy
+2025-04-10,Schenectady,5.9,13.2,rain
+2025-04-11,Schenectady,3.0,3.1,rain
+2025-04-12,Schenectady,7.6,0.0,cloudy
+2025-04-13,Schenectady,7.0,0.0,sunny
+2025-04-14,Schenectady,0.7,12.1,rain
+2025-04-15,Schenectady,5.8,0.0,sunny
+2025-04-16,Schenectady,11.0,0.0,cloudy
+2025-04-17,Schenectady,5.0,0.0,sunny
+2025-04-18,Schenectady,10.7,0.0,sunny
+2025-04-19,Schenectady,5.4,11.2,rain
+2025-04-20,Schenectady,9.8,0.0,sunny
+2025-04-21,Schenectady,7.1,8.3,rain
+2025-04-22,Schenectady,9.5,0.0,sunny
+2025-04-23,Schenectady,8.6,0.0,sunny
+2025-04-24,Schenectady,7.0,0.0,cloudy
+2025-04-25,Schenectady,8.7,4.7,rain
+2025-04-26,Schenectady,8.5,0.0,cloudy
+2025-04-27,Schenectady,11.4,0.0,cloudy
+2025-04-28,Schenectady,3.6,14.2,rain
+2025-04-29,Schenectady,5.8,1.0,cloudy
+2025-04-30,Schenectady,8.8,0.0,sunny
+2025-05-01,Schenectady,11.0,0.0,sunny
+2025-05-02,Schenectady,12.6,0.0,sunny
+2025-05-03,Schenectady,14.9,9.5,rain
+2025-05-04,Schenectady,6.6,0.0,cloudy
+2025-05-05,Schenectady,16.4,0.0,cloudy
+2025-05-06,Schenectady,8.0,0.0,cloudy
+2025-05-07,Schenectady,11.2,15.9,rain
+2025-05-08,Schenectady,14.5,0.0,sunny
+2025-05-09,Schenectady,19.5,0.0,sunny
+2025-05-10,Schenectady,12.1,8.8,rain
+2025-05-11,Schenectady,12.7,0.0,sunny
+2025-05-12,Schenectady,14.4,0.0,cloudy
+2025-05-13,Schenectady,15.9,1.0,sunny
+2025-05-14,Schenectady,11.8,14.0,rain
+2025-05-15,Schenectady,17.6,5.3,rain
+2025-05-16,Schenectady,9.2,1.9,cloudy
+2025-05-17,Schenectady,16.0,0.0,sunny
+2025-05-18,Schenectady,15.5,3.9,rain
+2025-05-19,Schenectady,15.4,0.0,sunny
+2025-05-20,Schenectady,20.2,0.0,sunny
+2025-05-21,Schenectady,16.4,5.2,rain
+2025-05-22,Schenectady,15.6,3.3,rain
+2025-05-23,Schenectady,19.6,0.0,cloudy
+2025-05-24,Schenectady,20.7,0.4,cloudy
+2025-05-25,Schenectady,17.1,0.0,sunny
+2025-05-26,Schenectady,16.9,0.0,sunny
+2025-05-27,Schenectady,14.1,0.0,sunny
+2025-05-28,Schenectady,17.6,13.1,rain
+2025-05-29,Schenectady,19.5,25.3,rain
+2025-05-30,Schenectady,17.6,0.0,sunny
+2025-05-31,Schenectady,13.1,0.0,sunny
+2025-06-01,Schenectady,15.4,0.0,sunny
+2025-06-02,Schenectady,14.0,10.6,rain
+2025-06-03,Schenectady,20.5,0.0,cloudy
+2025-06-04,Schenectady,19.8,0.0,cloudy
+2025-06-05,Schenectady,14.6,0.0,cloudy
+2025-06-06,Schenectady,23.0,8.3,rain
+2025-06-07,Schenectady,20.3,9.5,rain
+2025-06-08,Schenectady,19.0,0.0,sunny
+2025-06-09,Schenectady,15.0,1.6,sunny
+2025-06-10,Schenectady,19.6,0.0,sunny
+2025-06-11,Schenectady,23.1,4.4,rain
+2025-06-12,Schenectady,21.8,1.2,sunny
+2025-06-13,Schenectady,12.2,9.7,rain
+2025-06-14,Schenectady,19.2,0.0,sunny
+2025-06-15,Schenectady,20.9,0.0,cloudy
+2025-06-16,Schenectady,17.7,0.0,cloudy
+2025-06-17,Schenectady,18.9,9.0,rain
+2025-06-18,Schenectady,22.6,0.0,cloudy
+2025-06-19,Schenectady,25.4,1.9,sunny
+2025-06-20,Schenectady,23.7,0.0,cloudy
+2025-06-21,Schenectady,26.1,9.7,rain
+2025-06-22,Schenectady,21.1,0.0,cloudy
+2025-06-23,Schenectady,21.8,4.5,rain
+2025-06-24,Schenectady,16.3,1.8,cloudy
+2025-06-25,Schenectady,22.8,5.7,rain
+2025-06-26,Schenectady,23.0,0.0,cloudy
+2025-06-27,Schenectady,22.9,12.8,rain
+2025-06-28,Schenectady,21.3,0.0,sunny
+2025-06-29,Schenectady,20.3,0.0,sunny
+2025-06-30,Schenectady,22.2,0.9,cloudy
+2025-07-01,Schenectady,26.0,0.0,sunny
+2025-07-02,Schenectady,17.9,0.0,sunny
+2025-07-03,Schenectady,22.5,0.0,sunny
+2025-07-04,Schenectady,26.0,0.6,cloudy
+2025-07-05,Schenectady,20.4,4.2,rain
+2025-07-06,Schenectady,23.2,10.9,rain
+2025-07-07,Schenectady,23.6,0.0,cloudy
+2025-07-08,Schenectady,17.4,6.1,rain
+2025-07-09,Schenectady,26.4,0.0,sunny
+2025-07-10,Schenectady,28.3,3.9,rain
+2025-07-11,Schenectady,30.5,1.2,sunny
+2025-07-12,Schenectady,19.4,0.0,sunny
+2025-07-13,Schenectady,23.0,0.0,cloudy
+2025-07-14,Schenectady,23.8,0.0,cloudy
+2025-07-15,Schenectady,23.9,0.0,cloudy
+2025-07-16,Schenectady,19.6,0.0,sunny
+2025-07-17,Schenectady,18.4,0.0,sunny
+2025-07-18,Schenectady,22.5,8.3,rain
+2025-07-19,Schenectady,20.6,0.0,cloudy
+2025-07-20,Schenectady,24.0,0.0,sunny
+2025-07-21,Schenectady,22.2,0.0,sunny
+2025-07-22,Schenectady,23.8,5.0,rain
+2025-07-23,Schenectady,27.7,0.0,cloudy
+2025-07-24,Schenectady,22.3,3.0,rain
+2025-07-25,Schenectady,23.8,0.0,cloudy
+2025-07-26,Schenectady,23.0,13.1,rain
+2025-07-27,Schenectady,20.9,0.0,sunny
+2025-07-28,Schenectady,28.0,3.9,rain
+2025-07-29,Schenectady,22.2,0.0,sunny
+2025-07-30,Schenectady,16.9,0.0,cloudy
+2025-07-31,Schenectady,21.1,0.0,sunny
+2025-08-01,Schenectady,21.2,0.0,sunny
+2025-08-02,Schenectady,17.4,13.8,rain
+2025-08-03,Schenectady,18.2,4.2,rain
+2025-08-04,Schenectady,21.8,5.7,rain
+2025-08-05,Schenectady,30.7,0.0,cloudy
+2025-08-06,Schenectady,26.7,1.5,sunny
+2025-08-07,Schenectady,22.4,1.6,cloudy
+2025-08-08,Schenectady,20.6,0.0,cloudy
+2025-08-09,Schenectady,18.4,2.7,rain
+2025-08-10,Schenectady,26.2,0.0,sunny
+2025-08-11,Schenectady,22.4,0.0,cloudy
+2025-08-12,Schenectady,20.0,3.8,rain
+2025-08-13,Schenectady,22.6,1.8,sunny
+2025-08-14,Schenectady,22.6,0.0,cloudy
+2025-08-15,Schenectady,27.2,0.0,sunny
+2025-08-16,Schenectady,20.2,2.0,rain
+2025-08-17,Schenectady,16.9,10.1,rain
+2025-08-18,Schenectady,23.7,0.0,sunny
+2025-08-19,Schenectady,19.4,2.9,rain
+2025-08-20,Schenectady,20.4,0.0,cloudy
+2025-08-21,Schenectady,24.9,0.0,cloudy
+2025-08-22,Schenectady,22.9,0.0,sunny
+2025-08-23,Schenectady,18.5,0.0,cloudy
+2025-08-24,Schenectady,21.6,0.0,cloudy
+2025-08-25,Schenectady,17.7,5.7,rain
+2025-08-26,Schenectady,20.8,0.0,cloudy
+2025-08-27,Schenectady,18.4,0.0,cloudy
+2025-08-28,Schenectady,18.6,0.0,sunny
+2025-08-29,Schenectady,17.1,0.0,cloudy
+2025-08-30,Schenectady,,7.8,rain
+2025-08-31,Schenectady,19.1,0.0,cloudy
+2025-09-01,Schenectady,20.9,3.0,rain
+2025-09-02,Schenectady,21.7,0.0,sunny
+2025-09-03,Schenectady,28.0,0.0,cloudy
+2025-09-04,Schenectady,14.7,3.1,rain
+2025-09-05,Schenectady,14.2,7.3,rain
+2025-09-06,Schenectady,15.9,0.0,cloudy
+2025-09-07,Schenectady,17.2,0.0,sunny
+2025-09-08,Schenectady,15.0,0.0,sunny
+2025-09-09,Schenectady,15.9,7.6,rain
+2025-09-10,Schenectady,18.9,0.0,sunny
+2025-09-11,Schenectady,20.3,0.0,cloudy
+2025-09-12,Schenectady,18.6,0.0,sunny
+2025-09-13,Schenectady,18.9,0.0,cloudy
+2025-09-14,Schenectady,17.8,0.0,sunny
+2025-09-15,Schenectady,14.9,0.5,sunny
+2025-09-16,Schenectady,18.0,8.3,rain
+2025-09-17,Schenectady,13.1,8.2,rain
+2025-09-18,Schenectady,,0.0,sunny
+2025-09-19,Schenectady,15.5,0.0,cloudy
+2025-09-20,Schenectady,18.1,0.0,cloudy
+2025-09-21,Schenectady,13.7,0.0,cloudy
+2025-09-22,Schenectady,10.7,0.0,sunny
+2025-09-23,Schenectady,21.0,5.1,rain
+2025-09-24,Schenectady,,0.0,cloudy
+2025-09-25,Schenectady,16.1,3.4,rain
+2025-09-26,Schenectady,12.8,0.0,sunny
+2025-09-27,Schenectady,18.5,0.0,cloudy
+2025-09-28,Schenectady,17.7,0.0,cloudy
+2025-09-29,Schenectady,14.7,0.0,cloudy
+2025-09-30,Schenectady,14.1,0.0,cloudy
+2025-10-01,Schenectady,16.5,0.0,sunny
+2025-10-02,Schenectady,16.1,0.0,cloudy
+2025-10-03,Schenectady,13.4,15.9,rain
+2025-10-04,Schenectady,10.5,0.0,cloudy
+2025-10-05,Schenectady,9.5,0.0,sunny
+2025-10-06,Schenectady,17.3,5.3,rain
+2025-10-07,Schenectady,13.2,0.0,sunny
+2025-10-08,Schenectady,12.9,7.0,rain
+2025-10-09,Schenectady,8.8,0.0,sunny
+2025-10-10,Schenectady,15.8,0.0,sunny
+2025-10-11,Schenectady,13.8,0.0,cloudy
+2025-10-12,Schenectady,10.8,0.0,cloudy
+2025-10-13,Schenectady,2.2,0.0,cloudy
+2025-10-14,Schenectady,13.9,0.0,cloudy
+2025-10-15,Schenectady,6.0,0.0,sunny
+2025-10-16,Schenectady,9.1,0.0,sunny
+2025-10-17,Schenectady,5.0,0.0,sunny
+2025-10-18,Schenectady,6.8,7.2,rain
+2025-10-19,Schenectady,5.4,0.0,sunny
+2025-10-20,Schenectady,7.5,10.7,rain
+2025-10-21,Schenectady,5.9,0.0,cloudy
+2025-10-22,Schenectady,12.7,0.0,sunny
+2025-10-23,Schenectady,14.1,0.0,sunny
+2025-10-24,Schenectady,4.0,4.0,rain
+2025-10-25,Schenectady,8.4,0.0,cloudy
+2025-10-26,Schenectady,12.2,0.0,cloudy
+2025-10-27,Schenectady,6.4,0.0,sunny
+2025-10-28,Schenectady,10.1,0.0,cloudy
+2025-10-29,Schenectady,2.7,0.0,cloudy
+2025-10-30,Schenectady,4.4,6.5,rain
+2025-10-31,Schenectady,4.1,1.0,cloudy
+2025-11-01,Schenectady,5.6,0.0,sunny
+2025-11-02,Schenectady,7.3,9.1,rain
+2025-11-03,Schenectady,2.6,9.9,rain
+2025-11-04,Schenectady,5.0,0.0,sunny
+2025-11-05,Schenectady,0.5,0.0,sunny
+2025-11-06,Schenectady,-1.4,0.0,sunny
+2025-11-07,Schenectady,4.0,0.0,sunny
+2025-11-08,Schenectady,-1.5,0.0,cloudy
+2025-11-09,Schenectady,1.8,0.0,cloudy
+2025-11-10,Schenectady,2.7,6.1,rain
+2025-11-11,Schenectady,4.1,0.0,sunny
+2025-11-12,Schenectady,-1.2,0.0,sunny
+2025-11-13,Schenectady,3.2,0.0,cloudy
+2025-11-14,Schenectady,4.2,3.5,rain
+2025-11-15,Schenectady,1.0,4.3,rain
+2025-11-16,Schenectady,5.4,0.0,cloudy
+2025-11-17,Schenectady,-5.6,0.0,sunny
+2025-11-18,Schenectady,-2.3,0.0,sunny
+2025-11-19,Schenectady,0.0,0.0,cloudy
+2025-11-20,Schenectady,-1.2,0.0,cloudy
+2025-11-21,Schenectady,-2.0,0.0,cloudy
+2025-11-22,Schenectady,2.8,0.0,sunny
+2025-11-23,Schenectady,2.4,0.0,cloudy
+2025-11-24,Schenectady,2.9,0.7,sunny
+2025-11-25,Schenectady,-3.7,0.0,cloudy
+2025-11-26,Schenectady,1.1,0.0,cloudy
+2025-11-27,Schenectady,,0.0,sunny
+2025-11-28,Schenectady,-2.6,3.0,snow
+2025-11-29,Schenectady,-1.9,3.2,snow
+2025-11-30,Schenectady,-1.2,0.0,sunny
+2025-12-01,Schenectady,-2.7,0.0,cloudy
+2025-12-02,Schenectady,0.3,0.0,cloudy
+2025-12-03,Schenectady,0.3,0.0,sunny
+2025-12-04,Schenectady,-2.8,0.0,sunny
+2025-12-05,Schenectady,,0.0,cloudy
+2025-12-06,Schenectady,-6.2,0.0,sunny
+2025-12-07,Schenectady,-4.8,0.0,cloudy
+2025-12-08,Schenectady,-0.8,0.0,sunny
+2025-12-09,Schenectady,-3.9,0.0,cloudy
+2025-12-10,Schenectady,-6.8,6.2,snow
+2025-12-11,Schenectady,0.6,4.8,rain
+2025-12-12,Schenectady,-4.1,0.0,sunny
+2025-12-13,Schenectady,-8.0,0.0,cloudy
+2025-12-14,Schenectady,0.9,0.0,cloudy
+2025-12-15,Schenectady,-6.3,3.0,snow
+2025-12-16,Schenectady,0.6,11.4,rain
+2025-12-17,Schenectady,-3.1,0.0,cloudy
+2025-12-18,Schenectady,0.7,0.0,sunny
+2025-12-19,Schenectady,-0.8,11.3,snow
+2025-12-20,Schenectady,-1.4,0.0,cloudy
+2025-12-21,Schenectady,-8.1,6.7,snow
+2025-12-22,Schenectady,-8.0,2.5,snow
+2025-12-23,Schenectady,0.8,0.0,sunny
+2025-12-24,Schenectady,-6.6,0.0,sunny
+2025-12-25,Schenectady,-4.0,0.0,sunny
+2025-12-26,Schenectady,-6.7,12.4,snow
+2025-12-27,Schenectady,0.1,0.0,sunny
+2025-12-28,Schenectady,-2.6,3.0,snow
+2025-12-29,Schenectady,-10.5,0.0,sunny
+2025-12-30,Schenectady,-3.7,0.0,sunny
+2025-12-31,Schenectady,-5.1,8.8,snow
+2025-01-01,Saratoga Springs,-7.7,1.4,cloudy
+2025-01-02,Saratoga Springs,-3.9,3.0,snow
+2025-01-03,Saratoga Springs,-12.1,1.9,sunny
+2025-01-04,Saratoga Springs,0.1,6.5,rain
+2025-01-05,Saratoga Springs,-8.4,0.0,cloudy
+2025-01-06,Saratoga Springs,-13.6,4.7,snow
+2025-01-07,Saratoga Springs,-7.9,0.0,sunny
+2025-01-08,Saratoga Springs,-5.4,9.8,snow
+2025-01-09,Saratoga Springs,-7.2,0.0,sunny
+2025-01-10,Saratoga Springs,-1.3,0.5,sunny
+2025-01-11,Saratoga Springs,-7.0,0.0,sunny
+2025-01-12,Saratoga Springs,-2.0,0.0,sunny
+2025-01-13,Saratoga Springs,-11.7,14.9,snow
+2025-01-14,Saratoga Springs,-9.5,10.1,snow
+2025-01-15,Saratoga Springs,-15.1,0.0,cloudy
+2025-01-16,Saratoga Springs,-4.0,1.4,cloudy
+2025-01-17,Saratoga Springs,-8.4,0.0,sunny
+2025-01-18,Saratoga Springs,-6.4,0.0,cloudy
+2025-01-19,Saratoga Springs,-1.8,0.0,sunny
+2025-01-20,Saratoga Springs,-6.1,0.0,cloudy
+2025-01-21,Saratoga Springs,-6.9,7.6,snow
+2025-01-22,Saratoga Springs,-4.5,0.0,cloudy
+2025-01-23,Saratoga Springs,,0.0,sunny
+2025-01-24,Saratoga Springs,-8.5,12.0,snow
+2025-01-25,Saratoga Springs,-9.5,0.0,cloudy
+2025-01-26,Saratoga Springs,-5.2,0.0,cloudy
+2025-01-27,Saratoga Springs,-12.4,1.9,sunny
+2025-01-28,Saratoga Springs,-5.3,0.0,cloudy
+2025-01-29,Saratoga Springs,-5.5,2.6,snow
+2025-01-30,Saratoga Springs,-3.9,0.0,sunny
+2025-01-31,Saratoga Springs,-9.0,0.0,cloudy
+2025-02-01,Saratoga Springs,-5.3,0.0,cloudy
+2025-02-02,Saratoga Springs,-10.1,0.0,sunny
+2025-02-03,Saratoga Springs,-6.7,0.0,sunny
+2025-02-04,Saratoga Springs,-7.7,16.8,snow
+2025-02-05,Saratoga Springs,-5.8,0.0,cloudy
+2025-02-06,Saratoga Springs,-1.8,0.0,sunny
+2025-02-07,Saratoga Springs,-10.8,1.4,cloudy
+2025-02-08,Saratoga Springs,-7.6,0.0,sunny
+2025-02-09,Saratoga Springs,-6.4,1.5,sunny
+2025-02-10,Saratoga Springs,-1.3,0.0,sunny
+2025-02-11,Saratoga Springs,-11.1,4.5,snow
+2025-02-12,Saratoga Springs,-5.9,4.6,snow
+2025-02-13,Saratoga Springs,-9.7,0.0,sunny
+2025-02-14,Saratoga Springs,-1.4,0.0,sunny
+2025-02-15,Saratoga Springs,-5.1,3.4,snow
+2025-02-16,Saratoga Springs,-6.6,0.0,cloudy
+2025-02-17,Saratoga Springs,0.2,1.6,cloudy
+2025-02-18,Saratoga Springs,-4.1,0.0,sunny
+2025-02-19,Saratoga Springs,-2.8,0.5,sunny
+2025-02-20,Saratoga Springs,3.3,0.0,cloudy
+2025-02-21,Saratoga Springs,-1.2,0.0,sunny
+2025-02-22,Saratoga Springs,-6.7,0.0,sunny
+2025-02-23,Saratoga Springs,-3.1,4.0,snow
+2025-02-24,Saratoga Springs,-7.2,7.1,snow
+2025-02-25,Saratoga Springs,-0.6,0.0,sunny
+2025-02-26,Saratoga Springs,-1.3,0.0,cloudy
+2025-02-27,Saratoga Springs,-10.6,0.0,sunny
+2025-02-28,Saratoga Springs,-10.4,11.8,snow
+2025-03-01,Saratoga Springs,-3.4,0.0,cloudy
+2025-03-02,Saratoga Springs,-4.2,0.0,sunny
+2025-03-03,Saratoga Springs,-4.9,0.0,cloudy
+2025-03-04,Saratoga Springs,1.2,5.5,rain
+2025-03-05,Saratoga Springs,-1.7,0.0,cloudy
+2025-03-06,Saratoga Springs,-6.2,4.8,snow
+2025-03-07,Saratoga Springs,-7.0,0.0,cloudy
+2025-03-08,Saratoga Springs,1.3,0.0,cloudy
+2025-03-09,Saratoga Springs,0.0,0.0,sunny
+2025-03-10,Saratoga Springs,6.1,0.0,sunny
+2025-03-11,Saratoga Springs,-3.8,5.5,snow
+2025-03-12,Saratoga Springs,-0.5,13.9,snow
+2025-03-13,Saratoga Springs,0.4,0.0,cloudy
+2025-03-14,Saratoga Springs,-3.4,9.1,snow
+2025-03-15,Saratoga Springs,1.9,8.9,rain
+2025-03-16,Saratoga Springs,-0.7,0.0,sunny
+2025-03-17,Saratoga Springs,-1.7,0.0,cloudy
+2025-03-18,Saratoga Springs,-2.1,21.6,snow
+2025-03-19,Saratoga Springs,0.4,0.0,sunny
+2025-03-20,Saratoga Springs,1.5,0.0,cloudy
+2025-03-21,Saratoga Springs,-0.8,0.0,sunny
+2025-03-22,Saratoga Springs,2.6,0.0,cloudy
+2025-03-23,Saratoga Springs,-1.3,0.0,sunny
+2025-03-24,Saratoga Springs,2.7,2.7,rain
+2025-03-25,Saratoga Springs,0.9,0.0,sunny
+2025-03-26,Saratoga Springs,3.3,0.0,cloudy
+2025-03-27,Saratoga Springs,-2.2,24.4,snow
+2025-03-28,Saratoga Springs,0.6,0.0,sunny
+2025-03-29,Saratoga Springs,1.7,0.0,cloudy
+2025-03-30,Saratoga Springs,0.7,0.0,sunny
+2025-03-31,Saratoga Springs,1.4,0.0,cloudy
+2025-04-01,Saratoga Springs,5.1,0.0,cloudy
+2025-04-02,Saratoga Springs,2.7,0.0,sunny
+2025-04-03,Saratoga Springs,2.5,0.0,sunny
+2025-04-04,Saratoga Springs,4.6,8.8,rain
+2025-04-05,Saratoga Springs,5.3,0.0,sunny
+2025-04-06,Saratoga Springs,2.4,5.7,rain
+2025-04-07,Saratoga Springs,4.7,0.0,sunny
+2025-04-08,Saratoga Springs,6.8,10.0,rain
+2025-04-09,Saratoga Springs,6.9,0.0,sunny
+2025-04-10,Saratoga Springs,0.3,3.7,rain
+2025-04-11,Saratoga Springs,0.1,5.8,rain
+2025-04-12,Saratoga Springs,1.8,0.0,sunny
+2025-04-13,Saratoga Springs,11.0,0.0,sunny
+2025-04-14,Saratoga Springs,4.9,0.0,sunny
+2025-04-15,Saratoga Springs,5.0,3.9,rain
+2025-04-16,Saratoga Springs,3.7,15.2,rain
+2025-04-17,Saratoga Springs,6.9,0.0,sunny
+2025-04-18,Saratoga Springs,13.1,7.0,rain
+2025-04-19,Saratoga Springs,2.8,0.0,sunny
+2025-04-20,Saratoga Springs,9.3,0.0,sunny
+2025-04-21,Saratoga Springs,11.2,0.0,sunny
+2025-04-22,Saratoga Springs,10.0,0.0,sunny
+2025-04-23,Saratoga Springs,8.1,16.4,rain
+2025-04-24,Saratoga Springs,10.4,0.0,cloudy
+2025-04-25,Saratoga Springs,10.3,0.0,cloudy
+2025-04-26,Saratoga Springs,9.1,0.0,sunny
+2025-04-27,Saratoga Springs,7.1,0.0,sunny
+2025-04-28,Saratoga Springs,9.0,0.0,sunny
+2025-04-29,Saratoga Springs,9.2,0.0,cloudy
+2025-04-30,Saratoga Springs,8.3,0.0,sunny
+2025-05-01,Saratoga Springs,10.8,7.0,rain
+2025-05-02,Saratoga Springs,10.7,0.0,cloudy
+2025-05-03,Saratoga Springs,2.1,8.0,rain
+2025-05-04,Saratoga Springs,13.6,0.0,cloudy
+2025-05-05,Saratoga Springs,13.7,0.0,cloudy
+2025-05-06,Saratoga Springs,8.2,4.4,rain
+2025-05-07,Saratoga Springs,10.4,0.0,cloudy
+2025-05-08,Saratoga Springs,6.8,21.3,rain
+2025-05-09,Saratoga Springs,14.2,0.0,cloudy
+2025-05-10,Saratoga Springs,5.4,0.0,cloudy
+2025-05-11,Saratoga Springs,10.8,0.0,cloudy
+2025-05-12,Saratoga Springs,15.6,3.4,rain
+2025-05-13,Saratoga Springs,14.1,3.6,rain
+2025-05-14,Saratoga Springs,14.4,0.0,sunny
+2025-05-15,Saratoga Springs,13.4,5.0,rain
+2025-05-16,Saratoga Springs,15.8,0.0,cloudy
+2025-05-17,Saratoga Springs,12.1,0.0,sunny
+2025-05-18,Saratoga Springs,15.7,1.3,cloudy
+2025-05-19,Saratoga Springs,13.8,0.0,cloudy
+2025-05-20,Saratoga Springs,18.5,0.0,sunny
+2025-05-21,Saratoga Springs,15.3,0.0,sunny
+2025-05-22,Saratoga Springs,17.2,0.0,cloudy
+2025-05-23,Saratoga Springs,18.4,0.0,sunny
+2025-05-24,Saratoga Springs,18.9,0.0,cloudy
+2025-05-25,Saratoga Springs,13.0,8.7,rain
+2025-05-26,Saratoga Springs,13.1,0.0,sunny
+2025-05-27,Saratoga Springs,22.6,0.0,sunny
+2025-05-28,Saratoga Springs,11.0,14.4,rain
+2025-05-29,Saratoga Springs,16.1,10.8,rain
+2025-05-30,Saratoga Springs,15.9,0.0,sunny
+2025-05-31,Saratoga Springs,19.5,14.4,rain
+2025-06-01,Saratoga Springs,13.1,0.0,sunny
+2025-06-02,Saratoga Springs,16.9,0.0,cloudy
+2025-06-03,Saratoga Springs,22.1,4.8,rain
+2025-06-04,Saratoga Springs,20.3,0.0,sunny
+2025-06-05,Saratoga Springs,19.0,0.0,sunny
+2025-06-06,Saratoga Springs,15.7,14.6,rain
+2025-06-07,Saratoga Springs,12.6,0.0,sunny
+2025-06-08,Saratoga Springs,20.0,7.6,rain
+2025-06-09,Saratoga Springs,12.6,0.0,cloudy
+2025-06-10,Saratoga Springs,21.5,0.0,cloudy
+2025-06-11,Saratoga Springs,26.2,0.0,sunny
+2025-06-12,Saratoga Springs,15.9,0.0,cloudy
+2025-06-13,Saratoga Springs,20.7,0.0,sunny
+2025-06-14,Saratoga Springs,15.3,0.0,sunny
+2025-06-15,Saratoga Springs,14.7,7.5,rain
+2025-06-16,Saratoga Springs,19.0,0.0,cloudy
+2025-06-17,Saratoga Springs,20.2,0.0,cloudy
+2025-06-18,Saratoga Springs,19.9,0.0,sunny
+2025-06-19,Saratoga Springs,28.8,0.0,sunny
+2025-06-20,Saratoga Springs,24.0,0.0,sunny
+2025-06-21,Saratoga Springs,16.9,0.0,cloudy
+2025-06-22,Saratoga Springs,21.6,0.0,sunny
+2025-06-23,Saratoga Springs,21.4,0.0,sunny
+2025-06-24,Saratoga Springs,19.6,0.0,sunny
+2025-06-25,Saratoga Springs,19.4,0.0,sunny
+2025-06-26,Saratoga Springs,25.7,0.0,sunny
+2025-06-27,Saratoga Springs,19.0,0.0,sunny
+2025-06-28,Saratoga Springs,27.6,0.3,sunny
+2025-06-29,Saratoga Springs,21.5,0.0,cloudy
+2025-06-30,Saratoga Springs,17.7,2.2,rain
+2025-07-01,Saratoga Springs,22.6,0.0,cloudy
+2025-07-02,Saratoga Springs,18.0,3.2,rain
+2025-07-03,Saratoga Springs,27.2,7.7,rain
+2025-07-04,Saratoga Springs,26.7,0.0,sunny
+2025-07-05,Saratoga Springs,25.1,0.0,sunny
+2025-07-06,Saratoga Springs,17.7,2.7,rain
+2025-07-07,Saratoga Springs,27.8,15.1,rain
+2025-07-08,Saratoga Springs,22.2,0.0,sunny
+2025-07-09,Saratoga Springs,23.1,0.0,sunny
+2025-07-10,Saratoga Springs,16.6,0.0,cloudy
+2025-07-11,Saratoga Springs,21.7,0.0,sunny
+2025-07-12,Saratoga Springs,23.1,1.1,sunny
+2025-07-13,Saratoga Springs,26.8,0.0,sunny
+2025-07-14,Saratoga Springs,21.3,0.0,cloudy
+2025-07-15,Saratoga Springs,13.4,1.8,cloudy
+2025-07-16,Saratoga Springs,22.2,0.0,cloudy
+2025-07-17,Saratoga Springs,22.0,4.0,rain
+2025-07-18,Saratoga Springs,17.8,0.0,cloudy
+2025-07-19,Saratoga Springs,22.8,0.0,sunny
+2025-07-20,Saratoga Springs,16.9,2.3,rain
+2025-07-21,Saratoga Springs,27.9,0.8,cloudy
+2025-07-22,Saratoga Springs,24.5,0.0,sunny
+2025-07-23,Saratoga Springs,28.7,0.0,cloudy
+2025-07-24,Saratoga Springs,26.4,0.3,cloudy
+2025-07-25,Saratoga Springs,20.4,0.0,cloudy
+2025-07-26,Saratoga Springs,22.4,2.9,rain
+2025-07-27,Saratoga Springs,20.7,1.2,cloudy
+2025-07-28,Saratoga Springs,20.8,0.0,sunny
+2025-07-29,Saratoga Springs,23.4,0.0,cloudy
+2025-07-30,Saratoga Springs,23.1,0.0,cloudy
+2025-07-31,Saratoga Springs,18.3,1.2,sunny
+2025-08-01,Saratoga Springs,23.9,0.0,sunny
+2025-08-02,Saratoga Springs,23.5,0.0,sunny
+2025-08-03,Saratoga Springs,21.7,0.0,sunny
+2025-08-04,Saratoga Springs,29.1,0.0,sunny
+2025-08-05,Saratoga Springs,15.6,0.0,sunny
+2025-08-06,Saratoga Springs,20.2,0.0,cloudy
+2025-08-07,Saratoga Springs,19.1,0.0,sunny
+2025-08-08,Saratoga Springs,26.0,0.0,sunny
+2025-08-09,Saratoga Springs,29.2,0.0,sunny
+2025-08-10,Saratoga Springs,15.1,7.1,rain
+2025-08-11,Saratoga Springs,20.2,5.4,rain
+2025-08-12,Saratoga Springs,29.1,0.0,sunny
+2025-08-13,Saratoga Springs,22.4,0.0,cloudy
+2025-08-14,Saratoga Springs,23.4,0.0,cloudy
+2025-08-15,Saratoga Springs,14.8,0.0,sunny
+2025-08-16,Saratoga Springs,22.2,12.2,rain
+2025-08-17,Saratoga Springs,19.8,2.2,rain
+2025-08-18,Saratoga Springs,20.5,0.0,cloudy
+2025-08-19,Saratoga Springs,23.4,0.0,sunny
+2025-08-20,Saratoga Springs,17.0,1.2,sunny
+2025-08-21,Saratoga Springs,26.5,3.8,rain
+2025-08-22,Saratoga Springs,22.4,0.0,cloudy
+2025-08-23,Saratoga Springs,14.8,0.0,cloudy
+2025-08-24,Saratoga Springs,18.9,0.0,sunny
+2025-08-25,Saratoga Springs,21.4,9.8,rain
+2025-08-26,Saratoga Springs,23.6,0.0,cloudy
+2025-08-27,Saratoga Springs,19.0,0.0,cloudy
+2025-08-28,Saratoga Springs,16.1,0.0,cloudy
+2025-08-29,Saratoga Springs,19.8,2.6,rain
+2025-08-30,Saratoga Springs,20.0,0.0,sunny
+2025-08-31,Saratoga Springs,15.9,11.0,rain
+2025-09-01,Saratoga Springs,17.7,0.0,cloudy
+2025-09-02,Saratoga Springs,16.9,0.0,sunny
+2025-09-03,Saratoga Springs,21.0,0.0,sunny
+2025-09-04,Saratoga Springs,12.8,0.0,cloudy
+2025-09-05,Saratoga Springs,13.9,0.0,cloudy
+2025-09-06,Saratoga Springs,21.7,0.0,sunny
+2025-09-07,Saratoga Springs,14.6,5.2,rain
+2025-09-08,Saratoga Springs,23.5,15.2,rain
+2025-09-09,Saratoga Springs,19.1,0.0,cloudy
+2025-09-10,Saratoga Springs,13.9,7.3,rain
+2025-09-11,Saratoga Springs,16.6,0.0,cloudy
+2025-09-12,Saratoga Springs,16.7,0.0,sunny
+2025-09-13,Saratoga Springs,24.5,8.7,rain
+2025-09-14,Saratoga Springs,15.9,17.8,rain
+2025-09-15,Saratoga Springs,15.8,0.0,sunny
+2025-09-16,Saratoga Springs,20.8,6.5,rain
+2025-09-17,Saratoga Springs,13.5,0.0,cloudy
+2025-09-18,Saratoga Springs,15.6,0.0,sunny
+2025-09-19,Saratoga Springs,16.1,0.0,cloudy
+2025-09-20,Saratoga Springs,18.5,8.3,rain
+2025-09-21,Saratoga Springs,14.8,0.0,cloudy
+2025-09-22,Saratoga Springs,13.2,8.3,rain
+2025-09-23,Saratoga Springs,16.1,0.0,sunny
+2025-09-24,Saratoga Springs,15.2,13.5,rain
+2025-09-25,Saratoga Springs,9.8,4.0,rain
+2025-09-26,Saratoga Springs,12.3,0.0,sunny
+2025-09-27,Saratoga Springs,15.8,2.0,rain
+2025-09-28,Saratoga Springs,14.0,0.0,sunny
+2025-09-29,Saratoga Springs,16.3,4.4,rain
+2025-09-30,Saratoga Springs,18.5,0.0,cloudy
+2025-10-01,Saratoga Springs,12.7,0.0,cloudy
+2025-10-02,Saratoga Springs,11.2,5.1,rain
+2025-10-03,Saratoga Springs,6.8,0.0,sunny
+2025-10-04,Saratoga Springs,15.2,0.0,cloudy
+2025-10-05,Saratoga Springs,7.8,0.5,sunny
+2025-10-06,Saratoga Springs,10.0,8.8,rain
+2025-10-07,Saratoga Springs,12.4,1.2,cloudy
+2025-10-08,Saratoga Springs,8.8,0.0,sunny
+2025-10-09,Saratoga Springs,15.7,0.0,sunny
+2025-10-10,Saratoga Springs,12.5,3.5,rain
+2025-10-11,Saratoga Springs,4.9,19.4,rain
+2025-10-12,Saratoga Springs,11.8,0.0,sunny
+2025-10-13,Saratoga Springs,4.1,0.0,sunny
+2025-10-14,Saratoga Springs,2.7,3.7,rain
+2025-10-15,Saratoga Springs,4.5,0.0,cloudy
+2025-10-16,Saratoga Springs,10.1,0.0,cloudy
+2025-10-17,Saratoga Springs,10.1,0.0,sunny
+2025-10-18,Saratoga Springs,6.8,2.4,rain
+2025-10-19,Saratoga Springs,4.2,6.2,rain
+2025-10-20,Saratoga Springs,9.5,4.7,rain
+2025-10-21,Saratoga Springs,4.8,0.0,sunny
+2025-10-22,Saratoga Springs,11.0,8.0,rain
+2025-10-23,Saratoga Springs,3.9,4.0,rain
+2025-10-24,Saratoga Springs,8.1,0.0,cloudy
+2025-10-25,Saratoga Springs,11.3,0.0,sunny
+2025-10-26,Saratoga Springs,7.5,0.0,sunny
+2025-10-27,Saratoga Springs,-1.5,0.0,cloudy
+2025-10-28,Saratoga Springs,-1.4,26.0,snow
+2025-10-29,Saratoga Springs,4.9,11.2,rain
+2025-10-30,Saratoga Springs,5.0,0.0,sunny
+2025-10-31,Saratoga Springs,2.6,0.0,cloudy
+2025-11-01,Saratoga Springs,3.0,0.0,cloudy
+2025-11-02,Saratoga Springs,1.0,0.0,sunny
+2025-11-03,Saratoga Springs,5.6,9.8,rain
+2025-11-04,Saratoga Springs,6.1,2.9,rain
+2025-11-05,Saratoga Springs,4.2,2.3,rain
+2025-11-06,Saratoga Springs,2.4,9.6,rain
+2025-11-07,Saratoga Springs,5.6,0.0,cloudy
+2025-11-08,Saratoga Springs,4.3,0.0,cloudy
+2025-11-09,Saratoga Springs,6.1,0.0,cloudy
+2025-11-10,Saratoga Springs,2.4,0.0,sunny
+2025-11-11,Saratoga Springs,7.1,0.0,cloudy
+2025-11-12,Saratoga Springs,-2.3,0.0,sunny
+2025-11-13,Saratoga Springs,4.3,0.0,cloudy
+2025-11-14,Saratoga Springs,1.1,0.0,cloudy
+2025-11-15,Saratoga Springs,7.8,0.0,sunny
+2025-11-16,Saratoga Springs,-0.9,6.5,snow
+2025-11-17,Saratoga Springs,-3.9,0.0,cloudy
+2025-11-18,Saratoga Springs,2.8,0.0,cloudy
+2025-11-19,Saratoga Springs,-3.1,0.0,sunny
+2025-11-20,Saratoga Springs,-0.7,0.0,sunny
+2025-11-21,Saratoga Springs,2.9,0.0,cloudy
+2025-11-22,Saratoga Springs,-5.8,0.0,sunny
+2025-11-23,Saratoga Springs,-5.1,10.7,snow
+2025-11-24,Saratoga Springs,5.4,0.0,sunny
+2025-11-25,Saratoga Springs,1.0,9.2,rain
+2025-11-26,Saratoga Springs,3.0,7.7,rain
+2025-11-27,Saratoga Springs,6.5,0.0,sunny
+2025-11-28,Saratoga Springs,1.2,0.0,cloudy
+2025-11-29,Saratoga Springs,-3.9,9.4,snow
+2025-11-30,Saratoga Springs,-1.9,0.0,cloudy
+2025-12-01,Saratoga Springs,-7.1,6.1,snow
+2025-12-02,Saratoga Springs,-1.5,4.6,snow
+2025-12-03,Saratoga Springs,-1.7,2.6,snow
+2025-12-04,Saratoga Springs,-3.0,14.5,snow
+2025-12-05,Saratoga Springs,-0.0,0.0,cloudy
+2025-12-06,Saratoga Springs,-4.5,0.0,sunny
+2025-12-07,Saratoga Springs,2.2,3.6,rain
+2025-12-08,Saratoga Springs,-0.4,0.0,cloudy
+2025-12-09,Saratoga Springs,-4.6,0.0,cloudy
+2025-12-10,Saratoga Springs,-7.8,6.3,snow
+2025-12-11,Saratoga Springs,-3.3,0.0,cloudy
+2025-12-12,Saratoga Springs,-5.5,9.1,snow
+2025-12-13,Saratoga Springs,-7.9,0.0,sunny
+2025-12-14,Saratoga Springs,-6.0,0.0,sunny
+2025-12-15,Saratoga Springs,-10.8,9.2,snow
+2025-12-16,Saratoga Springs,-6.5,0.0,sunny
+2025-12-17,Saratoga Springs,-9.1,0.0,sunny
+2025-12-18,Saratoga Springs,-5.7,13.1,snow
+2025-12-19,Saratoga Springs,-0.6,0.0,cloudy
+2025-12-20,Saratoga Springs,-7.4,0.0,cloudy
+2025-12-21,Saratoga Springs,-6.7,9.2,snow
+2025-12-22,Saratoga Springs,-5.6,7.6,snow
+2025-12-23,Saratoga Springs,-8.1,0.0,sunny
+2025-12-24,Saratoga Springs,-4.1,33.0,snow
+2025-12-25,Saratoga Springs,-5.3,3.9,snow
+2025-12-26,Saratoga Springs,-8.7,0.0,sunny
+2025-12-27,Saratoga Springs,-10.7,0.0,cloudy
+2025-12-28,Saratoga Springs,-1.3,0.0,sunny
+2025-12-29,Saratoga Springs,-5.7,0.0,sunny
+2025-12-30,Saratoga Springs,-3.4,0.0,sunny
+2025-12-31,Saratoga Springs,-4.5,0.0,cloudy

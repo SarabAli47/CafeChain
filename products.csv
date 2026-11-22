@@ -1,0 +1,25 @@
+product_id,product_name,category,size,unit_cost,is_vegan
+P01,Espresso,Coffee,S,0.7,1
+P02,Americano,Coffee,M,0.8,1
+P03,Latte,Coffee,M,1.2,0
+P04,Latte,Coffee,L,1.45,0
+P05,Cappuccino,Coffee,M,1.1,0
+P06,Flat White,Coffee,S,1.15,0
+P07,Mocha,Coffee,M,1.35,0
+P08,Green Tea,Tea,M,0.45,1
+P09,Chai Latte,Tea,M,0.95,0
+P10,Earl Grey,Tea,M,0.4,1
+P11,Cold Brew,Cold Drinks,M,1.0,1
+P12,Iced Latte,Cold Drinks,L,1.4,0
+P13,Lemonade,Cold Drinks,M,0.6,1
+P14,Fruit Smoothie,Cold Drinks,L,1.9,1
+P15,Bagel,Bakery,-,0.85,1
+P16,Croissant,Bakery,-,0.9,0
+P17,Blueberry Muffin,Bakery,-,0.7,0
+P18,Cookie,Bakery,-,0.4,0
+P19,Banana Bread,Bakery,-,0.75,1
+P20,Turkey Sandwich,Food,-,2.6,0
+P21,Veggie Wrap,Food,-,2.2,1
+P22,Soup of the Day,Food,-,1.8,1
+P23,Caesar Salad,Food,-,2.4,0
+P24,Breakfast Burrito,Food,-,2.1,0
